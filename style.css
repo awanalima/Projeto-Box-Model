@@ -64,6 +64,7 @@ footer{
     font-size: 20px;
     text-align: center;
     color: rgb(158, 8, 8);
-    
-
+}
+body{
+    background-color: beige;
 }
